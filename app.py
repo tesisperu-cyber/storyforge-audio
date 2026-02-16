@@ -16,7 +16,7 @@ import json
 # ============================================
 
 # Credenciales de acceso
-VALID_USERNAME = "pedrotorres"
+VALID_USERNAME = "cliente2026"
 VALID_PASSWORD = "860059h"
 
 # Inicializar estado de autenticación
